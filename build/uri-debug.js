@@ -1,8 +1,4 @@
-/*
-Copyright 2015, modulex-url@1.0.4
-MIT Licensed
-build time: Fri, 30 Jan 2015 08:33:58 GMT
-*/
+//! Copyright 2015, kissy-uri@1.0.4 MIT Licensed, build time: Thu, 05 Feb 2015 06:54:59 GMT 
 modulex.add("uri", ["util","url"], function(require, exports, module) {
 var _util_ = require("util");
 var url = require("url");
